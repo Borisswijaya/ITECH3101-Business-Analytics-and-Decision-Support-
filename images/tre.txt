@@ -1,0 +1,15 @@
+Machine learning is the method for artificial inteligence to perform amd learn 
+simple specific activity without the further need of complex programming from its developer,
+
+after doing the activity for several times the computers technically will be able to 
+learn on its own how to correcctly perform the activity it designed for
+
+This type of "self-reliance" learning by computers can be further discontruct into several sub-method 
+based on how much human intervention are involve
+
+Supervosed learning is sub-method of machine learning with the most human intervention to teach computers
+how to respond to data input
+
+
+
+
